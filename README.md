@@ -1,31 +1,22 @@
+# About This Documentation
 
-# Roadrunner and Pathing Tutorials
+## The Need for Tutorials on Roadrunner and Pedro Pathing
 
-## Background
+In the world of competitive robotics, particularly for FIRST Tech Challenge (FTC), teams are always looking for ways to optimize their robots’ performance. One of the areas that we realized had a gap in available tutorials was pathing. Specifically, **Roadrunner** and **Pedro** pathing—two popular path-following libraries used in FTC—did not have comprehensive guides that we could rely on. 
 
-When working with robot pathing for FIRST Tech Challenge (FTC) teams, many developers and teams face challenges when trying to implement effective navigation systems. Two common approaches that teams struggle with are **Roadrunner** (a popular pathing library) and **Pedo Pathing** (a method for calculating robot movement using odometry). 
+Roadrunner, being a motion-planning library, and Pedro, a custom pathing library, both require specific knowledge to implement properly. Many teams were left with little guidance on how to use these tools to their fullest potential. Through discussions with teams and our own experiences, we discovered that a lot of the needed tutorials were either nonexistent or hard to find. 
 
-We recognized that there was a lack of clear and accessible tutorials that could guide new teams through setting up these pathing systems and making the most of them. As a result, many teams end up reinventing the wheel, spending countless hours on trial and error, rather than focusing on their actual robot tasks.
+To fill this void, we decided to compile our knowledge into this documentation, making it easier for other teams to implement and benefit from these tools in their own robots.
 
-## The Collaboration
+## Collaboration Between Virginia City Silver Circuits and URSA Major FTC
 
-At **Virginia City Silver Circuits** and **URSA Major FTC**, we believe that collaboration is key to overcoming challenges in the FTC community. Both of our teams have faced similar struggles when it comes to implementing complex pathing systems like Roadrunner and Pedo Pathing. We felt the need to create a space where teams could access tutorials, guides, and code that would make implementing these systems easier and more efficient.
+The creation of this documentation is the result of an exciting collaboration between **Virginia City Silver Circuits** and **URSA Major FTC**. Both teams have a shared vision of making advanced FTC techniques more accessible to all teams, no matter their experience level. Through this partnership, we have combined our resources and expertise to produce tutorials, guides, and detailed explanations on key topics like pathing, motion control, and more.
 
-### What We Are Doing
+By joining forces, Virginia City Silver Circuits and URSA Major FTC aim to elevate the community’s understanding of complex robot programming techniques. Our collective knowledge in these areas is being passed on to help teams in their journey to achieve more precise and effective robot movements on the field.
 
-To address this gap, **Virginia City Silver Circuits** and **URSA Major FTC** have teamed up to build comprehensive tutorials and documentation. The goal is to make it easier for teams to integrate pathing libraries, understand the underlying principles of pathing, and efficiently navigate the challenges that come with autonomous robot control.
+We hope that this collaboration will inspire other teams to share their knowledge, create resources, and help grow the FTC community as a whole.
 
-Our tutorials will cover:
+---
 
-- **Basic setup** of Roadrunner and Pedo Pathing in an FTC robot project.
-- **Step-by-step guides** for configuring the pathing libraries with your robot hardware and sensors.
-- **Best practices** for tuning and optimizing pathing algorithms.
-- **Examples and code snippets** to get you started quickly.
-  
-With this collaboration, we aim to help the FTC community at large by providing high-quality, accessible resources that will allow teams to use their time and resources more effectively.
+Thank you for using our documentation! If you have any questions or suggestions, feel free to reach out to us through the contact information provided.
 
-## Why It Matters
-
-By sharing knowledge and working together, we hope to empower FTC teams of all experience levels to achieve better results with autonomous pathing. The tutorials and resources we’re developing will give teams the tools they need to create reliable and efficient autonomous programs, and ultimately, perform better in their competitions.
-
-We invite other teams and developers to contribute to this growing resource pool. If you have insights, tutorials, or improvements, we’d love to hear from you. Together, we can help more teams succeed in their FTC journey!
