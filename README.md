@@ -9,7 +9,7 @@ To fill this void, we decided to compile our knowledge into this documentation, 
 
 ## Collaboration Between Virginia City Silver Circuits and URSA Major FTC
 
-The creation of this documentation is the result of an exciting collaboration between **Virginia City Silver Circuits** and **URSA Major FTC**. Both teams have a shared vision of making advanced FTC techniques more accessible to all teams, no matter their experience level. Through this partnership, we have combined our resources and expertise to produce tutorials, guides, and detailed explanations on key topics like pathing, motion control, and more.
+By collaborating on these docs, we are able to create resources for the FTC Community. We are 2 passionate teams that enjoy robotics and we hope you suceed this year!
 
 By joining forces, Virginia City Silver Circuits and URSA Major FTC aim to elevate the community’s understanding of complex robot programming techniques. Our collective knowledge in these areas is being passed on to help teams in their journey to achieve more precise and effective robot movements on the field.
 
