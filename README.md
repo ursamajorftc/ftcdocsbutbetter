@@ -1,5 +1,4 @@
-# About This Documentation
-
+# About The Docs
 ## The Need for Tutorials on Roadrunner and Pedro Pathing
 
 In the world of competitive robotics, particularly for FIRST Tech Challenge (FTC), teams are always looking for ways to optimize their robots’ performance. One of the areas that we realized had a gap in available tutorials was pathing. Specifically, **Roadrunner** and **Pedro** pathing—two popular path-following libraries used in FTC—did not have comprehensive guides that we could rely on. 
